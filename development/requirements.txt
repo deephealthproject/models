@@ -1,0 +1,10 @@
+# ML libraries
+torch
+tensorflow
+numpy
+tqdm
+
+# Export to ONNX
+tf2onnx
+onnx
+onnx-simplifier
